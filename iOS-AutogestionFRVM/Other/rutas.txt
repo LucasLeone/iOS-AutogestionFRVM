@@ -1,0 +1,25 @@
+Rutas del webservice:
+
+    pasar por headers legajo y contraseña
+https://webservice.frvm.utn.edu.ar/autogestion/login R
+https://webservice.frvm.utn.edu.ar/autogestion/logout (ver q onda)
+
+    usar Basic Auth con legajo y hash
+https://webservice.frvm.utn.edu.ar/autogestion/secciones
+https://webservice.frvm.utn.edu.ar/autogestion/estado-academico
+https://webservice.frvm.utn.edu.ar/autogestion/fechas-cursado
+https://webservice.frvm.utn.edu.ar/autogestion/MateriasCursando
+https://webservice.frvm.utn.edu.ar/autogestion/MateriasCursando/historico
+https://webservice.frvm.utn.edu.ar/autogestion/inscripcion-cursado
+https://webservice.frvm.utn.edu.ar/autogestion/inscripcion-cursado/comisiones
+https://webservice.frvm.utn.edu.ar/autogestion/inscripcion-cursado/inscribir
+https://webservice.frvm.utn.edu.ar/autogestion/inscripcion-cursado/anular
+https://webservice.frvm.utn.edu.ar/autogestion/examenes
+https://webservice.frvm.utn.edu.ar/autogestion/inscripcion-examenes
+https://webservice.frvm.utn.edu.ar/autogestion/inscripcion-examenes/listar-turnos
+https://webservice.frvm.utn.edu.ar/autogestion/inscripcion-examenes/inscribir
+https://webservice.frvm.utn.edu.ar/autogestion/inscripcion-examenes/anular
+https://webservice.frvm.utn.edu.ar/autogestion/encuestas
+https://webservice.frvm.utn.edu.ar/autogestion/encuestas/preguntas
+https://webservice.frvm.utn.edu.ar/autogestion/encuestas/encuestas-disponibles
+https://webservice.frvm.utn.edu.ar/autogestion/materias-electivas
